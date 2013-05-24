@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tardis Labs  穿越十亿光年 
+穿越十亿光年 
 =======================================
 
 这是 MichaelGe 的博客、笔记和资料存档。
