@@ -3,22 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-穿越十亿光年 
+Across Billions of Light Years
 =======================================
-
-这是 MichaelGe 的博客、笔记和资料存档。
+Tardis.穿越十亿光年
+这是MichaelGe的博客、笔记、资料存档。
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+社交网络
+`github <https://github.com/MichaelGe>`_ 、
+`豆瓣 <http://www.douban.com/people/MichaelGe/>`_ 、
+`微博 <http://weibo.com/yesican>`_
+.. _language:
 
+语言
+--------
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   language/python/index
