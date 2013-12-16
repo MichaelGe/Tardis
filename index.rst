@@ -28,6 +28,14 @@ Contents:
 
    language/python/index
 
+Database
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   database/mongodb/index
+
 .. _mechatronics:
 
 机电
