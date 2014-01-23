@@ -1,4 +1,5 @@
 _build/
+build.sh
 *.swp
 *.out
 *.o

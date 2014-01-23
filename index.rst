@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 2
 
 关注我的:
-`github <https://github.com/MichaelGe>`_ 、
+`github <https://github.com/Yuanye>`_ 、
 `豆瓣 <http://www.douban.com/people/MichaelGe/>`_ 、
 `微博 <http://weibo.com/yesican>`_
 
@@ -55,3 +55,4 @@ Database
    :maxdepth: 2
 
    essay/2013/index
+   essay/2014/index

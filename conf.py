@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Tardis Labs'
-copyright = u'2013, MichaelGe'
+copyright = u'2013-2014, Yuanye Ge'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -187,7 +187,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'TardisLabs.tex', u'Tardis Labs Documentation',
-   u'MichaelGe', 'manual'),
+   u'Yuanye Ge', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -217,7 +217,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'tardislabs', u'Tardis Labs Documentation',
-     [u'MichaelGe'], 1)
+     [u'Yuanye Ge'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -229,11 +229,7 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'TardisLabs', u'Tardis Labs Documentation',
-   u'MichaelGe', 'TardisLabs', '穿越十亿光年.',
-   'Miscellaneous'),
-]
+#texinfo_documents = []
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
@@ -252,9 +248,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Tardis Labs'
-epub_author = u'MichaelGe'
-epub_publisher = u'MichaelGe'
-epub_copyright = u'2013, MichaelGe'
+epub_author = u'Yuanye Ge'
+epub_publisher = u'Tardis Labs'
+epub_copyright = u'2013-2014, Yuanye Ge'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
